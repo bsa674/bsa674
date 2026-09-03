@@ -369,26 +369,6 @@ Developed an antimicrobial resistance prediction pipeline with SHAP interpretabi
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bsa674&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bsa674&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&radius=10" width="100%" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
