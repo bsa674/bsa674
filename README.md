@@ -93,7 +93,7 @@ I'm open to collaborations and roles at the intersection of machine learning and
 - 💼 [LinkedIn](https://www.linkedin.com/in/bsa674/)
 - 🌐 [bsa674.github.io](https://bsa674.github.io)
 - 📄 [CV](https://bsa674.github.io/assets/pdf/cv.pdf)
-- 🔬 [ORCID](https://orcid.org/) · [Google Scholar](https://scholar.google.com/)
+- 🔬 [Google Scholar](https://scholar.google.com/)
 
 ---
 
